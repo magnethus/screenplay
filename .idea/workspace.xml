@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f14f751b-e7c5-49c2-848a-01bb8fdd4dfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20gUixxZMdmwRcW0Xa7IXM3WhtE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Add articles to the buying car">
+    <configuration name="Feature: GlobalExample" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/GlobalExample.feature" />
+      <option name="GLUE" value="stepDefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="screenPlay" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: GlobalExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add articles to the buying car" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/GlobalExample.feature" />
+      <option name="GLUE" value="stepDefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="screenPlay" />
+      <option name="NAME_FILTER" value="^Add articles to the buying car$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Add articles to the buying car$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add articles to the buying car" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalExampleRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="screenPlay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.GlobalExampleRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Add articles to the buying car" />
+        <item itemvalue="Cucumber java.Feature: GlobalExample" />
+        <item itemvalue="JUnit.GlobalExampleRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f14f751b-e7c5-49c2-848a-01bb8fdd4dfa" name="Default Changelist" comment="" />
+      <created>1636465854058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636465854058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1636538245071">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="488" y="113" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728/1366.0.1360.728@0.40.1366.728" timestamp="1636538245071" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1636789086524">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728/1366.0.1360.728@0.40.1366.728" timestamp="1636789086524" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1636789086524">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.40.1366.728/1366.0.1360.728@0.40.1366.728" timestamp="1636789086524" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1636789086524">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.40.1366.728/1366.0.1360.728@0.40.1366.728" timestamp="1636789086524" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1636789086524">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.40.1366.728/1366.0.1360.728@0.40.1366.728" timestamp="1636789086524" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Realizar compras de articulos" skipped="0" tests="1" time="3.79" timestamp="2021-11-09 06:37:02"><testcase name="Add articles to the buying car"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+stepDefinitions.GlobalExampleSteps.aNewClientLoginToTheBuyingCar(GlobalExampleSteps.java:26)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
